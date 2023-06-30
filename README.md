@@ -1,6 +1,6 @@
+![اسکرین شات - ScreenShot](https://raw.githubusercontent.com/MOBiNoUo/SA-MP-Website/main/screenshot/SCREENSHOT.png)
 
-
-#Features - امکانات
+# Features - امکانات
 
 Show Count Online Players
 - نمایش تعداد بازیکنان آنلاین
